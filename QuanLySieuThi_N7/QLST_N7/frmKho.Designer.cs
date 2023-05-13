@@ -630,7 +630,7 @@
             this.pnbody.Location = new System.Drawing.Point(-1, 56);
             this.pnbody.Name = "pnbody";
             this.pnbody.ShowBorders = true;
-            this.pnbody.Size = new System.Drawing.Size(1673, 1004);
+            this.pnbody.Size = new System.Drawing.Size(1676, 1004);
             this.pnbody.TabIndex = 26;
             // 
             // pnsubbody
@@ -642,7 +642,7 @@
             this.pnsubbody.Controls.Add(this.bunifuPanel1);
             this.pnsubbody.Location = new System.Drawing.Point(105, 35);
             this.pnsubbody.Name = "pnsubbody";
-            this.pnsubbody.Size = new System.Drawing.Size(1461, 935);
+            this.pnsubbody.Size = new System.Drawing.Size(1464, 935);
             this.pnsubbody.TabIndex = 0;
             // 
             // bunifuPanel2
@@ -660,7 +660,7 @@
             this.bunifuPanel2.Location = new System.Drawing.Point(0, 154);
             this.bunifuPanel2.Name = "bunifuPanel2";
             this.bunifuPanel2.ShowBorders = true;
-            this.bunifuPanel2.Size = new System.Drawing.Size(1458, 781);
+            this.bunifuPanel2.Size = new System.Drawing.Size(1461, 781);
             this.bunifuPanel2.TabIndex = 1;
             // 
             // dtvKho
@@ -733,7 +733,7 @@
             this.dtvKho.RowsDefaultCellStyle = dataGridViewCellStyle5;
             this.dtvKho.RowTemplate.Height = 40;
             this.dtvKho.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dtvKho.Size = new System.Drawing.Size(1458, 781);
+            this.dtvKho.Size = new System.Drawing.Size(1461, 781);
             this.dtvKho.TabIndex = 1;
             this.dtvKho.Theme = Bunifu.UI.WinForms.BunifuDataGridView.PresetThemes.Light;
             // 
@@ -751,7 +751,7 @@
             this.bunifuPanel1.Location = new System.Drawing.Point(0, 0);
             this.bunifuPanel1.Name = "bunifuPanel1";
             this.bunifuPanel1.ShowBorders = true;
-            this.bunifuPanel1.Size = new System.Drawing.Size(1458, 158);
+            this.bunifuPanel1.Size = new System.Drawing.Size(1461, 158);
             this.bunifuPanel1.TabIndex = 0;
             // 
             // splitContainer2
@@ -772,8 +772,8 @@
             this.splitContainer2.Panel2.BackColor = System.Drawing.Color.LightGray;
             this.splitContainer2.Panel2.Controls.Add(this.bunifuPanel6);
             this.splitContainer2.Panel2.Controls.Add(this.bunifuPanel7);
-            this.splitContainer2.Size = new System.Drawing.Size(1458, 158);
-            this.splitContainer2.SplitterDistance = 791;
+            this.splitContainer2.Size = new System.Drawing.Size(1461, 158);
+            this.splitContainer2.SplitterDistance = 794;
             this.splitContainer2.TabIndex = 1;
             // 
             // bunifuPanel4
@@ -791,7 +791,7 @@
             this.bunifuPanel4.Location = new System.Drawing.Point(0, 64);
             this.bunifuPanel4.Name = "bunifuPanel4";
             this.bunifuPanel4.ShowBorders = true;
-            this.bunifuPanel4.Size = new System.Drawing.Size(791, 90);
+            this.bunifuPanel4.Size = new System.Drawing.Size(794, 90);
             this.bunifuPanel4.TabIndex = 1;
             // 
             // btnTimKiemSanPham
@@ -842,7 +842,7 @@
             this.btnTimKiemSanPham.IdleIconLeftImage = null;
             this.btnTimKiemSanPham.IdleIconRightImage = global::QLST_N7.Properties.Resources.search1;
             this.btnTimKiemSanPham.IndicateFocus = false;
-            this.btnTimKiemSanPham.Location = new System.Drawing.Point(629, 33);
+            this.btnTimKiemSanPham.Location = new System.Drawing.Point(632, 33);
             this.btnTimKiemSanPham.Name = "btnTimKiemSanPham";
             this.btnTimKiemSanPham.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btnTimKiemSanPham.OnDisabledState.BorderRadius = 16;
@@ -952,7 +952,7 @@
             this.txtTimKiemSanPham.SelectionLength = 0;
             this.txtTimKiemSanPham.SelectionStart = 0;
             this.txtTimKiemSanPham.ShortcutsEnabled = true;
-            this.txtTimKiemSanPham.Size = new System.Drawing.Size(589, 40);
+            this.txtTimKiemSanPham.Size = new System.Drawing.Size(592, 40);
             this.txtTimKiemSanPham.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
             this.txtTimKiemSanPham.TabIndex = 62;
             this.txtTimKiemSanPham.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
@@ -977,7 +977,7 @@
             this.bunifuPanel3.Location = new System.Drawing.Point(0, 0);
             this.bunifuPanel3.Name = "bunifuPanel3";
             this.bunifuPanel3.ShowBorders = true;
-            this.bunifuPanel3.Size = new System.Drawing.Size(791, 65);
+            this.bunifuPanel3.Size = new System.Drawing.Size(794, 65);
             this.bunifuPanel3.TabIndex = 0;
             // 
             // btnTatCaPhienBan
@@ -1702,7 +1702,7 @@
             this.header.Controls.Add(this.btnThoat);
             this.header.Location = new System.Drawing.Point(-1, 0);
             this.header.Name = "header";
-            this.header.Size = new System.Drawing.Size(1673, 60);
+            this.header.Size = new System.Drawing.Size(1676, 60);
             this.header.TabIndex = 25;
             // 
             // lblThongTin
@@ -1747,7 +1747,7 @@
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnThoat.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThoat.ForeColor = System.Drawing.Color.White;
-            this.btnThoat.Location = new System.Drawing.Point(1543, 6);
+            this.btnThoat.Location = new System.Drawing.Point(1546, 6);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(115, 44);
             this.btnThoat.TabIndex = 53;
@@ -1762,6 +1762,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1924, 1061);
+            this.ControlBox = false;
             this.Controls.Add(this.splitContainer1);
             this.Name = "frmKho";
             this.Text = "Kho";

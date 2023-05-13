@@ -628,7 +628,7 @@
             this.pnbody.Location = new System.Drawing.Point(-1, 56);
             this.pnbody.Name = "pnbody";
             this.pnbody.ShowBorders = true;
-            this.pnbody.Size = new System.Drawing.Size(1670, 1005);
+            this.pnbody.Size = new System.Drawing.Size(1673, 1005);
             this.pnbody.TabIndex = 26;
             // 
             // bunifuPanel1
@@ -649,7 +649,7 @@
             this.bunifuPanel1.Location = new System.Drawing.Point(107, 244);
             this.bunifuPanel1.Name = "bunifuPanel1";
             this.bunifuPanel1.ShowBorders = true;
-            this.bunifuPanel1.Size = new System.Drawing.Size(1462, 196);
+            this.bunifuPanel1.Size = new System.Drawing.Size(1465, 196);
             this.bunifuPanel1.TabIndex = 3;
             // 
             // pnDonHang
@@ -665,7 +665,7 @@
             this.pnDonHang.Controls.Add(this.lblDonHang);
             this.pnDonHang.Controls.Add(this.bunifuLabel1);
             this.pnDonHang.Controls.Add(this.pictureBox2);
-            this.pnDonHang.Location = new System.Drawing.Point(55, 18);
+            this.pnDonHang.Location = new System.Drawing.Point(56, 18);
             this.pnDonHang.Name = "pnDonHang";
             this.pnDonHang.ShowBorders = true;
             this.pnDonHang.Size = new System.Drawing.Size(310, 161);
@@ -748,7 +748,7 @@
             this.pnDoanhThu.Controls.Add(this.lblDoanhThu);
             this.pnDoanhThu.Controls.Add(this.bunifuLabel2);
             this.pnDoanhThu.Controls.Add(this.pictureBox3);
-            this.pnDoanhThu.Location = new System.Drawing.Point(400, 18);
+            this.pnDoanhThu.Location = new System.Drawing.Point(401, 18);
             this.pnDoanhThu.Name = "pnDoanhThu";
             this.pnDoanhThu.ShowBorders = true;
             this.pnDoanhThu.Size = new System.Drawing.Size(310, 161);
@@ -831,7 +831,7 @@
             this.pnTienLai.Controls.Add(this.lblTienLai);
             this.pnTienLai.Controls.Add(this.bunifuLabel3);
             this.pnTienLai.Controls.Add(this.pictureBox4);
-            this.pnTienLai.Location = new System.Drawing.Point(745, 18);
+            this.pnTienLai.Location = new System.Drawing.Point(746, 18);
             this.pnTienLai.Name = "pnTienLai";
             this.pnTienLai.ShowBorders = true;
             this.pnTienLai.Size = new System.Drawing.Size(310, 161);
@@ -914,7 +914,7 @@
             this.pnMatHangTrongKho.Controls.Add(this.lblTonKho);
             this.pnMatHangTrongKho.Controls.Add(this.bunifuLabel4);
             this.pnMatHangTrongKho.Controls.Add(this.pictureBox5);
-            this.pnMatHangTrongKho.Location = new System.Drawing.Point(1090, 18);
+            this.pnMatHangTrongKho.Location = new System.Drawing.Point(1091, 18);
             this.pnMatHangTrongKho.Name = "pnMatHangTrongKho";
             this.pnMatHangTrongKho.ShowBorders = true;
             this.pnMatHangTrongKho.Size = new System.Drawing.Size(310, 161);
@@ -999,7 +999,7 @@
             this.bunifuPanel2.Location = new System.Drawing.Point(107, 470);
             this.bunifuPanel2.Name = "bunifuPanel2";
             this.bunifuPanel2.ShowBorders = true;
-            this.bunifuPanel2.Size = new System.Drawing.Size(1462, 503);
+            this.bunifuPanel2.Size = new System.Drawing.Size(1465, 503);
             this.bunifuPanel2.TabIndex = 2;
             // 
             // bunifuPanel5
@@ -1015,7 +1015,7 @@
             this.bunifuPanel5.Location = new System.Drawing.Point(0, 0);
             this.bunifuPanel5.Name = "bunifuPanel5";
             this.bunifuPanel5.ShowBorders = true;
-            this.bunifuPanel5.Size = new System.Drawing.Size(1462, 53);
+            this.bunifuPanel5.Size = new System.Drawing.Size(1465, 53);
             this.bunifuPanel5.TabIndex = 1;
             // 
             // bunifuLabel5
@@ -1050,7 +1050,7 @@
             this.bunifuPanel4.Location = new System.Drawing.Point(0, 59);
             this.bunifuPanel4.Name = "bunifuPanel4";
             this.bunifuPanel4.ShowBorders = true;
-            this.bunifuPanel4.Size = new System.Drawing.Size(1462, 444);
+            this.bunifuPanel4.Size = new System.Drawing.Size(1465, 444);
             this.bunifuPanel4.TabIndex = 0;
             // 
             // dtvDSHD
@@ -1118,7 +1118,7 @@
             this.dtvDSHD.RowsDefaultCellStyle = dataGridViewCellStyle4;
             this.dtvDSHD.RowTemplate.Height = 40;
             this.dtvDSHD.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dtvDSHD.Size = new System.Drawing.Size(1462, 444);
+            this.dtvDSHD.Size = new System.Drawing.Size(1465, 444);
             this.dtvDSHD.TabIndex = 6;
             this.dtvDSHD.Theme = Bunifu.UI.WinForms.BunifuDataGridView.PresetThemes.Light;
             // 
@@ -1137,7 +1137,7 @@
             this.pnBCHead.Location = new System.Drawing.Point(107, 30);
             this.pnBCHead.Name = "pnBCHead";
             this.pnBCHead.ShowBorders = true;
-            this.pnBCHead.Size = new System.Drawing.Size(1462, 183);
+            this.pnBCHead.Size = new System.Drawing.Size(1465, 183);
             this.pnBCHead.TabIndex = 0;
             // 
             // bunifuPanel3
@@ -1154,7 +1154,7 @@
             this.bunifuPanel3.Controls.Add(this.dpTuNgay);
             this.bunifuPanel3.Controls.Add(this.lblTuNgay);
             this.bunifuPanel3.Controls.Add(this.lblDenNgay);
-            this.bunifuPanel3.Location = new System.Drawing.Point(248, 62);
+            this.bunifuPanel3.Location = new System.Drawing.Point(249, 62);
             this.bunifuPanel3.Name = "bunifuPanel3";
             this.bunifuPanel3.ShowBorders = true;
             this.bunifuPanel3.Size = new System.Drawing.Size(1082, 121);
@@ -1364,7 +1364,7 @@
             this.header.Controls.Add(this.btnThoat);
             this.header.Location = new System.Drawing.Point(-1, 0);
             this.header.Name = "header";
-            this.header.Size = new System.Drawing.Size(1670, 60);
+            this.header.Size = new System.Drawing.Size(1673, 60);
             this.header.TabIndex = 25;
             // 
             // bunifuDatavizBasic1
@@ -1420,7 +1420,7 @@
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnThoat.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThoat.ForeColor = System.Drawing.Color.White;
-            this.btnThoat.Location = new System.Drawing.Point(1540, 6);
+            this.btnThoat.Location = new System.Drawing.Point(1543, 6);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(115, 44);
             this.btnThoat.TabIndex = 53;
@@ -1435,6 +1435,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1924, 1061);
+            this.ControlBox = false;
             this.Controls.Add(this.splitContainer1);
             this.Name = "frmBaoCaoBanHang";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

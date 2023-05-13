@@ -492,5 +492,14 @@ namespace QLST_N7
                 e.Handled = true;
             }
         }
+
+        private void txtTienKhacDua_TextChanged(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrEmpty(txtTienKhacDua.Text.Trim()))
+            {
+                decimal tienthuatrakhach = decimal.Parse(txtTienKhacDua.Text.Trim()) - decimal.Parse(txtTongTien.Text.Trim());
+                txtTienThuaTraKhach.Text = tienthuatrakhach.ToString();
+            }
+        }
     }
 }

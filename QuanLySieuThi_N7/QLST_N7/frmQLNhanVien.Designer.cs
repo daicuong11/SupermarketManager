@@ -666,7 +666,7 @@
             this.pnbody.Location = new System.Drawing.Point(-1, 56);
             this.pnbody.Name = "pnbody";
             this.pnbody.ShowBorders = true;
-            this.pnbody.Size = new System.Drawing.Size(1688, 1005);
+            this.pnbody.Size = new System.Drawing.Size(1691, 1005);
             this.pnbody.TabIndex = 27;
             // 
             // bunifuPanel6
@@ -689,7 +689,7 @@
             this.bunifuPanel6.Location = new System.Drawing.Point(107, 156);
             this.bunifuPanel6.Name = "bunifuPanel6";
             this.bunifuPanel6.ShowBorders = true;
-            this.bunifuPanel6.Size = new System.Drawing.Size(1480, 340);
+            this.bunifuPanel6.Size = new System.Drawing.Size(1483, 340);
             this.bunifuPanel6.TabIndex = 1;
             // 
             // btnDatLaiMatKhau
@@ -740,7 +740,7 @@
             this.btnDatLaiMatKhau.IdleIconLeftImage = null;
             this.btnDatLaiMatKhau.IdleIconRightImage = null;
             this.btnDatLaiMatKhau.IndicateFocus = false;
-            this.btnDatLaiMatKhau.Location = new System.Drawing.Point(1151, 276);
+            this.btnDatLaiMatKhau.Location = new System.Drawing.Point(1152, 276);
             this.btnDatLaiMatKhau.Name = "btnDatLaiMatKhau";
             this.btnDatLaiMatKhau.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btnDatLaiMatKhau.OnDisabledState.BorderRadius = 10;
@@ -831,7 +831,7 @@
             this.btnLamMoi.IdleIconLeftImage = null;
             this.btnLamMoi.IdleIconRightImage = null;
             this.btnLamMoi.IndicateFocus = false;
-            this.btnLamMoi.Location = new System.Drawing.Point(890, 276);
+            this.btnLamMoi.Location = new System.Drawing.Point(891, 276);
             this.btnLamMoi.Name = "btnLamMoi";
             this.btnLamMoi.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btnLamMoi.OnDisabledState.BorderRadius = 10;
@@ -922,7 +922,7 @@
             this.btnSua.IdleIconLeftImage = null;
             this.btnSua.IdleIconRightImage = null;
             this.btnSua.IndicateFocus = false;
-            this.btnSua.Location = new System.Drawing.Point(629, 276);
+            this.btnSua.Location = new System.Drawing.Point(630, 276);
             this.btnSua.Name = "btnSua";
             this.btnSua.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btnSua.OnDisabledState.BorderRadius = 10;
@@ -1000,7 +1000,7 @@
             this.bunifuGroupBox1.LineStyle = Bunifu.UI.WinForms.BunifuGroupBox.LineStyles.Solid;
             this.bunifuGroupBox1.Location = new System.Drawing.Point(57, 21);
             this.bunifuGroupBox1.Name = "bunifuGroupBox1";
-            this.bunifuGroupBox1.Size = new System.Drawing.Size(1363, 235);
+            this.bunifuGroupBox1.Size = new System.Drawing.Size(1366, 235);
             this.bunifuGroupBox1.TabIndex = 29;
             this.bunifuGroupBox1.TabStop = false;
             this.bunifuGroupBox1.Text = "Thông tin nhân viên";
@@ -1743,7 +1743,7 @@
             this.btnXoa.IdleIconLeftImage = null;
             this.btnXoa.IdleIconRightImage = null;
             this.btnXoa.IndicateFocus = false;
-            this.btnXoa.Location = new System.Drawing.Point(368, 276);
+            this.btnXoa.Location = new System.Drawing.Point(369, 276);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btnXoa.OnDisabledState.BorderRadius = 10;
@@ -1834,7 +1834,7 @@
             this.btnThem.IdleIconLeftImage = null;
             this.btnThem.IdleIconRightImage = null;
             this.btnThem.IndicateFocus = false;
-            this.btnThem.Location = new System.Drawing.Point(107, 276);
+            this.btnThem.Location = new System.Drawing.Point(108, 276);
             this.btnThem.Name = "btnThem";
             this.btnThem.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btnThem.OnDisabledState.BorderRadius = 10;
@@ -1892,7 +1892,7 @@
             this.bunifuPanel2.Location = new System.Drawing.Point(107, 529);
             this.bunifuPanel2.Name = "bunifuPanel2";
             this.bunifuPanel2.ShowBorders = true;
-            this.bunifuPanel2.Size = new System.Drawing.Size(1480, 444);
+            this.bunifuPanel2.Size = new System.Drawing.Size(1483, 444);
             this.bunifuPanel2.TabIndex = 2;
             // 
             // bunifuPanel3
@@ -1908,7 +1908,7 @@
             this.bunifuPanel3.Location = new System.Drawing.Point(0, 0);
             this.bunifuPanel3.Name = "bunifuPanel3";
             this.bunifuPanel3.ShowBorders = true;
-            this.bunifuPanel3.Size = new System.Drawing.Size(1480, 53);
+            this.bunifuPanel3.Size = new System.Drawing.Size(1483, 53);
             this.bunifuPanel3.TabIndex = 1;
             // 
             // bunifuLabel3
@@ -1943,7 +1943,7 @@
             this.bunifuPanel4.Location = new System.Drawing.Point(0, 59);
             this.bunifuPanel4.Name = "bunifuPanel4";
             this.bunifuPanel4.ShowBorders = true;
-            this.bunifuPanel4.Size = new System.Drawing.Size(1480, 385);
+            this.bunifuPanel4.Size = new System.Drawing.Size(1483, 385);
             this.bunifuPanel4.TabIndex = 0;
             // 
             // dtvDSNV
@@ -2020,7 +2020,7 @@
             this.dtvDSNV.RowsDefaultCellStyle = dataGridViewCellStyle4;
             this.dtvDSNV.RowTemplate.Height = 40;
             this.dtvDSNV.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dtvDSNV.Size = new System.Drawing.Size(1480, 385);
+            this.dtvDSNV.Size = new System.Drawing.Size(1483, 385);
             this.dtvDSNV.TabIndex = 6;
             this.dtvDSNV.Theme = Bunifu.UI.WinForms.BunifuDataGridView.PresetThemes.Light;
             // 
@@ -2095,7 +2095,7 @@
             this.pnBCHead.Location = new System.Drawing.Point(107, 30);
             this.pnBCHead.Name = "pnBCHead";
             this.pnBCHead.ShowBorders = true;
-            this.pnBCHead.Size = new System.Drawing.Size(1480, 466);
+            this.pnBCHead.Size = new System.Drawing.Size(1483, 466);
             this.pnBCHead.TabIndex = 0;
             // 
             // bunifuPanel1
@@ -2109,7 +2109,7 @@
             this.bunifuPanel1.BorderThickness = 1;
             this.bunifuPanel1.Controls.Add(this.btnTimKiem);
             this.bunifuPanel1.Controls.Add(this.txtTimKiemNhanVien);
-            this.bunifuPanel1.Location = new System.Drawing.Point(218, 60);
+            this.bunifuPanel1.Location = new System.Drawing.Point(219, 60);
             this.bunifuPanel1.Name = "bunifuPanel1";
             this.bunifuPanel1.ShowBorders = true;
             this.bunifuPanel1.Size = new System.Drawing.Size(1040, 67);
@@ -2310,7 +2310,7 @@
             this.header.Controls.Add(this.btnThoat);
             this.header.Location = new System.Drawing.Point(-1, 0);
             this.header.Name = "header";
-            this.header.Size = new System.Drawing.Size(1685, 60);
+            this.header.Size = new System.Drawing.Size(1688, 60);
             this.header.TabIndex = 25;
             // 
             // btnSideBar
@@ -2340,7 +2340,7 @@
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnThoat.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThoat.ForeColor = System.Drawing.Color.White;
-            this.btnThoat.Location = new System.Drawing.Point(1555, 6);
+            this.btnThoat.Location = new System.Drawing.Point(1558, 6);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(115, 44);
             this.btnThoat.TabIndex = 53;
@@ -2354,6 +2354,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1924, 1061);
+            this.ControlBox = false;
             this.Controls.Add(this.splitContainer1);
             this.Name = "frmQLNhanVien";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

@@ -104,10 +104,10 @@
             this.bunifuPanel2.BorderThickness = 1;
             this.bunifuPanel2.Controls.Add(this.bunifuPanel3);
             this.bunifuPanel2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.bunifuPanel2.Location = new System.Drawing.Point(0, 92);
+            this.bunifuPanel2.Location = new System.Drawing.Point(0, 94);
             this.bunifuPanel2.Name = "bunifuPanel2";
             this.bunifuPanel2.ShowBorders = true;
-            this.bunifuPanel2.Size = new System.Drawing.Size(782, 397);
+            this.bunifuPanel2.Size = new System.Drawing.Size(782, 395);
             this.bunifuPanel2.TabIndex = 1;
             // 
             // bunifuPanel3
@@ -396,6 +396,7 @@
             this.Name = "frmMoDau";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Giới thiệu ứng dụng quản lý siêu thị";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmMoDau_FormClosing);
             this.Load += new System.EventHandler(this.frmMoDau_Load);
             this.bunifuPanel1.ResumeLayout(false);
             this.bunifuPanel1.PerformLayout();

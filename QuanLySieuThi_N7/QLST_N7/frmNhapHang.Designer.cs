@@ -159,6 +159,8 @@
             this.bunifuPanel7 = new Bunifu.UI.WinForms.BunifuPanel();
             this.btnTimKiemSanPham = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2();
             this.txtTimKiemSanPham = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.nudMaKho = new System.Windows.Forms.NumericUpDown();
+            this.lblKho = new Bunifu.UI.WinForms.BunifuLabel();
             this.btnXoa = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2();
             this.lblGiaBan = new Bunifu.UI.WinForms.BunifuLabel();
             this.txtGiaBan = new Bunifu.UI.WinForms.BunifuTextBox();
@@ -170,8 +172,6 @@
             this.txtGiaNhap = new Bunifu.UI.WinForms.BunifuTextBox();
             this.txtSoluong = new Bunifu.UI.WinForms.BunifuTextBox();
             this.txtTenSanPham = new Bunifu.UI.WinForms.BunifuTextBox();
-            this.lblKho = new Bunifu.UI.WinForms.BunifuLabel();
-            this.nudMaKho = new System.Windows.Forms.NumericUpDown();
             this.header.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnSideBar)).BeginInit();
             this.panelSidebar.SuspendLayout();
@@ -217,7 +217,7 @@
             this.header.Controls.Add(this.btnThoat);
             this.header.Location = new System.Drawing.Point(-1, 0);
             this.header.Name = "header";
-            this.header.Size = new System.Drawing.Size(1676, 60);
+            this.header.Size = new System.Drawing.Size(1679, 60);
             this.header.TabIndex = 25;
             // 
             // btnTaoDonNhap
@@ -268,7 +268,7 @@
             this.btnTaoDonNhap.IdleIconLeftImage = null;
             this.btnTaoDonNhap.IdleIconRightImage = null;
             this.btnTaoDonNhap.IndicateFocus = false;
-            this.btnTaoDonNhap.Location = new System.Drawing.Point(1333, 6);
+            this.btnTaoDonNhap.Location = new System.Drawing.Point(1336, 6);
             this.btnTaoDonNhap.Name = "btnTaoDonNhap";
             this.btnTaoDonNhap.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btnTaoDonNhap.OnDisabledState.BorderRadius = 10;
@@ -338,7 +338,7 @@
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnThoat.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThoat.ForeColor = System.Drawing.Color.White;
-            this.btnThoat.Location = new System.Drawing.Point(1546, 6);
+            this.btnThoat.Location = new System.Drawing.Point(1549, 6);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(115, 44);
             this.btnThoat.TabIndex = 53;
@@ -955,7 +955,7 @@
             this.bunifuPanel1.Location = new System.Drawing.Point(-1, 57);
             this.bunifuPanel1.Name = "bunifuPanel1";
             this.bunifuPanel1.ShowBorders = true;
-            this.bunifuPanel1.Size = new System.Drawing.Size(1676, 999);
+            this.bunifuPanel1.Size = new System.Drawing.Size(1679, 999);
             this.bunifuPanel1.TabIndex = 26;
             // 
             // bunifuPanel6
@@ -973,7 +973,7 @@
             this.bunifuPanel6.Location = new System.Drawing.Point(106, 34);
             this.bunifuPanel6.Name = "bunifuPanel6";
             this.bunifuPanel6.ShowBorders = true;
-            this.bunifuPanel6.Size = new System.Drawing.Size(1459, 151);
+            this.bunifuPanel6.Size = new System.Drawing.Size(1462, 151);
             this.bunifuPanel6.TabIndex = 4;
             // 
             // bunifuPanel3
@@ -991,7 +991,7 @@
             this.bunifuPanel3.Controls.Add(this.lblHenNgayGiao);
             this.bunifuPanel3.Controls.Add(this.lblTenNhanVien);
             this.bunifuPanel3.Controls.Add(this.lblThongTinNhapHang);
-            this.bunifuPanel3.Location = new System.Drawing.Point(968, 3);
+            this.bunifuPanel3.Location = new System.Drawing.Point(971, 3);
             this.bunifuPanel3.Name = "bunifuPanel3";
             this.bunifuPanel3.ShowBorders = true;
             this.bunifuPanel3.Size = new System.Drawing.Size(488, 149);
@@ -1160,7 +1160,7 @@
             this.bunifuPanel2.Location = new System.Drawing.Point(3, 3);
             this.bunifuPanel2.Name = "bunifuPanel2";
             this.bunifuPanel2.ShowBorders = true;
-            this.bunifuPanel2.Size = new System.Drawing.Size(917, 149);
+            this.bunifuPanel2.Size = new System.Drawing.Size(920, 149);
             this.bunifuPanel2.TabIndex = 0;
             // 
             // splitContainer4
@@ -1183,7 +1183,7 @@
             this.splitContainer4.Panel2.Controls.Add(this.lblTenNhaCungCap);
             this.splitContainer4.Panel2.Controls.Add(this.lblDiaChiNhaCungCap);
             this.splitContainer4.Panel2.Controls.Add(this.lblSDTNhaCungCap);
-            this.splitContainer4.Size = new System.Drawing.Size(917, 149);
+            this.splitContainer4.Size = new System.Drawing.Size(920, 149);
             this.splitContainer4.SplitterDistance = 586;
             this.splitContainer4.SplitterWidth = 1;
             this.splitContainer4.TabIndex = 4;
@@ -1531,7 +1531,7 @@
             this.bunifuPanel5.Location = new System.Drawing.Point(106, 565);
             this.bunifuPanel5.Name = "bunifuPanel5";
             this.bunifuPanel5.ShowBorders = true;
-            this.bunifuPanel5.Size = new System.Drawing.Size(1459, 403);
+            this.bunifuPanel5.Size = new System.Drawing.Size(1462, 403);
             this.bunifuPanel5.TabIndex = 3;
             // 
             // splitContainer2
@@ -1562,8 +1562,8 @@
             this.splitContainer2.Panel2.Controls.Add(this.lblChiPhiNhapHang);
             this.splitContainer2.Panel2.Controls.Add(this.lblTongTien);
             this.splitContainer2.Panel2.Controls.Add(this.lblTongSoLuong);
-            this.splitContainer2.Size = new System.Drawing.Size(1459, 403);
-            this.splitContainer2.SplitterDistance = 947;
+            this.splitContainer2.Size = new System.Drawing.Size(1462, 403);
+            this.splitContainer2.SplitterDistance = 950;
             this.splitContainer2.TabIndex = 6;
             // 
             // bunifuPanel10
@@ -1580,7 +1580,7 @@
             this.bunifuPanel10.Location = new System.Drawing.Point(3, 3);
             this.bunifuPanel10.Name = "bunifuPanel10";
             this.bunifuPanel10.ShowBorders = true;
-            this.bunifuPanel10.Size = new System.Drawing.Size(941, 44);
+            this.bunifuPanel10.Size = new System.Drawing.Size(944, 44);
             this.bunifuPanel10.TabIndex = 1;
             // 
             // bunifuLabel1
@@ -1613,7 +1613,7 @@
             this.bunifuPanel9.Location = new System.Drawing.Point(3, 45);
             this.bunifuPanel9.Name = "bunifuPanel9";
             this.bunifuPanel9.ShowBorders = true;
-            this.bunifuPanel9.Size = new System.Drawing.Size(949, 355);
+            this.bunifuPanel9.Size = new System.Drawing.Size(952, 355);
             this.bunifuPanel9.TabIndex = 0;
             // 
             // dtvDonNhap
@@ -1693,7 +1693,7 @@
             this.dtvDonNhap.RowsDefaultCellStyle = dataGridViewCellStyle5;
             this.dtvDonNhap.RowTemplate.Height = 40;
             this.dtvDonNhap.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dtvDonNhap.Size = new System.Drawing.Size(949, 355);
+            this.dtvDonNhap.Size = new System.Drawing.Size(952, 355);
             this.dtvDonNhap.TabIndex = 6;
             this.dtvDonNhap.Theme = Bunifu.UI.WinForms.BunifuDataGridView.PresetThemes.Light;
             // 
@@ -2235,7 +2235,7 @@
             this.bunifuPanel4.Location = new System.Drawing.Point(106, 219);
             this.bunifuPanel4.Name = "bunifuPanel4";
             this.bunifuPanel4.ShowBorders = true;
-            this.bunifuPanel4.Size = new System.Drawing.Size(1456, 312);
+            this.bunifuPanel4.Size = new System.Drawing.Size(1459, 312);
             this.bunifuPanel4.TabIndex = 2;
             // 
             // splitContainer3
@@ -2268,8 +2268,8 @@
             this.splitContainer3.Panel2.Controls.Add(this.txtGiaNhap);
             this.splitContainer3.Panel2.Controls.Add(this.txtSoluong);
             this.splitContainer3.Panel2.Controls.Add(this.txtTenSanPham);
-            this.splitContainer3.Size = new System.Drawing.Size(1456, 312);
-            this.splitContainer3.SplitterDistance = 946;
+            this.splitContainer3.Size = new System.Drawing.Size(1459, 312);
+            this.splitContainer3.SplitterDistance = 949;
             this.splitContainer3.TabIndex = 5;
             // 
             // bunifuPanel8
@@ -2287,7 +2287,7 @@
             this.bunifuPanel8.Location = new System.Drawing.Point(3, 53);
             this.bunifuPanel8.Name = "bunifuPanel8";
             this.bunifuPanel8.ShowBorders = true;
-            this.bunifuPanel8.Size = new System.Drawing.Size(941, 256);
+            this.bunifuPanel8.Size = new System.Drawing.Size(944, 256);
             this.bunifuPanel8.TabIndex = 1;
             // 
             // dtvDSSP
@@ -2355,7 +2355,7 @@
             this.dtvDSSP.RowsDefaultCellStyle = dataGridViewCellStyle9;
             this.dtvDSSP.RowTemplate.Height = 40;
             this.dtvDSSP.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dtvDSSP.Size = new System.Drawing.Size(941, 256);
+            this.dtvDSSP.Size = new System.Drawing.Size(944, 256);
             this.dtvDSSP.TabIndex = 2;
             this.dtvDSSP.Theme = Bunifu.UI.WinForms.BunifuDataGridView.PresetThemes.Light;
             this.dtvDSSP.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtvDSSP_CellClick_1);
@@ -2375,7 +2375,7 @@
             this.bunifuPanel7.Location = new System.Drawing.Point(3, 3);
             this.bunifuPanel7.Name = "bunifuPanel7";
             this.bunifuPanel7.ShowBorders = true;
-            this.bunifuPanel7.Size = new System.Drawing.Size(941, 44);
+            this.bunifuPanel7.Size = new System.Drawing.Size(944, 44);
             this.bunifuPanel7.TabIndex = 0;
             // 
             // btnTimKiemSanPham
@@ -2426,7 +2426,7 @@
             this.btnTimKiemSanPham.IdleIconLeftImage = null;
             this.btnTimKiemSanPham.IdleIconRightImage = global::QLST_N7.Properties.Resources.search1;
             this.btnTimKiemSanPham.IndicateFocus = false;
-            this.btnTimKiemSanPham.Location = new System.Drawing.Point(785, 3);
+            this.btnTimKiemSanPham.Location = new System.Drawing.Point(788, 3);
             this.btnTimKiemSanPham.Name = "btnTimKiemSanPham";
             this.btnTimKiemSanPham.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btnTimKiemSanPham.OnDisabledState.BorderRadius = 16;
@@ -2536,7 +2536,7 @@
             this.txtTimKiemSanPham.SelectionLength = 0;
             this.txtTimKiemSanPham.SelectionStart = 0;
             this.txtTimKiemSanPham.ShortcutsEnabled = true;
-            this.txtTimKiemSanPham.Size = new System.Drawing.Size(752, 40);
+            this.txtTimKiemSanPham.Size = new System.Drawing.Size(755, 40);
             this.txtTimKiemSanPham.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
             this.txtTimKiemSanPham.TabIndex = 61;
             this.txtTimKiemSanPham.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
@@ -2547,6 +2547,47 @@
             this.txtTimKiemSanPham.UseSystemPasswordChar = false;
             this.txtTimKiemSanPham.WordWrap = true;
             this.txtTimKiemSanPham.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtTimKiemSanPham_KeyDown);
+            // 
+            // nudMaKho
+            // 
+            this.nudMaKho.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nudMaKho.Location = new System.Drawing.Point(78, 240);
+            this.nudMaKho.Maximum = new decimal(new int[] {
+            3,
+            0,
+            0,
+            0});
+            this.nudMaKho.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.nudMaKho.Name = "nudMaKho";
+            this.nudMaKho.Size = new System.Drawing.Size(39, 26);
+            this.nudMaKho.TabIndex = 23;
+            this.nudMaKho.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.nudMaKho.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            // 
+            // lblKho
+            // 
+            this.lblKho.AllowParentOverrides = false;
+            this.lblKho.AutoEllipsis = false;
+            this.lblKho.Cursor = System.Windows.Forms.Cursors.Default;
+            this.lblKho.CursorType = System.Windows.Forms.Cursors.Default;
+            this.lblKho.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblKho.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(97)))), ((int)(((byte)(50)))));
+            this.lblKho.Location = new System.Drawing.Point(29, 247);
+            this.lblKho.Name = "lblKho";
+            this.lblKho.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.lblKho.Size = new System.Drawing.Size(32, 19);
+            this.lblKho.TabIndex = 22;
+            this.lblKho.Text = "Kho";
+            this.lblKho.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.lblKho.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
             // 
             // btnXoa
             // 
@@ -3196,53 +3237,13 @@
             this.txtTenSanPham.WordWrap = true;
             this.txtTenSanPham.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtTenSanPham_KeyDown);
             // 
-            // lblKho
-            // 
-            this.lblKho.AllowParentOverrides = false;
-            this.lblKho.AutoEllipsis = false;
-            this.lblKho.Cursor = System.Windows.Forms.Cursors.Default;
-            this.lblKho.CursorType = System.Windows.Forms.Cursors.Default;
-            this.lblKho.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblKho.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(97)))), ((int)(((byte)(50)))));
-            this.lblKho.Location = new System.Drawing.Point(29, 247);
-            this.lblKho.Name = "lblKho";
-            this.lblKho.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lblKho.Size = new System.Drawing.Size(32, 19);
-            this.lblKho.TabIndex = 22;
-            this.lblKho.Text = "Kho";
-            this.lblKho.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
-            this.lblKho.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
-            // 
-            // nudMaKho
-            // 
-            this.nudMaKho.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.nudMaKho.Location = new System.Drawing.Point(78, 240);
-            this.nudMaKho.Maximum = new decimal(new int[] {
-            3,
-            0,
-            0,
-            0});
-            this.nudMaKho.Minimum = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
-            this.nudMaKho.Name = "nudMaKho";
-            this.nudMaKho.Size = new System.Drawing.Size(39, 26);
-            this.nudMaKho.TabIndex = 23;
-            this.nudMaKho.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.nudMaKho.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
-            // 
             // frmNhapHang
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1924, 1061);
+            this.ControlBox = false;
             this.Controls.Add(this.splitContainer1);
             this.MinimumSize = new System.Drawing.Size(1840, 1078);
             this.Name = "frmNhapHang";
